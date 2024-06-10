@@ -1,0 +1,87 @@
+﻿Cell Type;Gene
+B cells;IGLL5
+B cells;MZB1
+B cells;JCHAIN
+B cells;DERL3
+B cells;SDC1
+B cells;MS4A1
+B cells;BANK1
+B cells;PAX5
+B cells;CD79A
+Epithelial cell;SFN
+Epithelial cell;EPCAM
+Epithelial cell;KRT19
+Epithelial cell;FGB
+Epithelial cell;ALB
+Endothelial cell;PECAM1
+Endothelial cell;CD34
+Endothelial cell;VWF
+Stromal;ACTA2
+Stromal;MCAM
+Stromal;MYLK
+Stromal;MYL9
+Stromal;FAP
+Stromal;THY1
+Mast cell;CMA1
+Mast cell;MS4A2
+Mast cell;TPSAB1
+Mast cell;TPSB2
+Neutrophils;FCGR3B
+Neutrophils;ALPL
+Neutrophils;CXCR1
+Neutrophils;CXCR2
+Neutrophils;ADGRG3
+Neutrophils;CMTM2
+Neutrophils;PROK2
+Neutrophils;MME
+Neutrophils;MMP25
+Neutrophils;TNFRSF10C
+Neutrophils;CSF3R
+Neutrophils;G0S2
+Monocytes_Macrophages;MARCO
+Monocytes_Macrophages;CSF1R
+Monocytes_Macrophages;CD68
+Monocytes_Macrophages;GLDN
+Monocytes_Macrophages;APOE
+Monocytes_Macrophages;CCL3L1
+Monocytes_Macrophages;TREM2
+Monocytes_Macrophages;C1QB
+Monocytes_Macrophages;NUPR1
+Monocytes_Macrophages;FOLR2
+Monocytes_Macrophages;RNASE1
+Monocytes_Macrophages;C1QA
+Plasma cells;PRDM1
+Plasma cells;XBP1
+Plasma cells;IRF4
+T cells;CD2
+T cells;CD3D
+T cells;CD3E
+T cells;CD3G
+T cells;CD8
+T cells;CD4
+cDCs;FLT3
+cDCs;CD14
+cDCs;CST3
+cDCs;CLEC9A
+cDCs;CD1C
+cDCs;XCR1
+pDCs;SLC32A1
+pDCs;SHD
+pDCs;LRRC26
+pDCs;PACSIN1
+pDCs;LILRA4
+pDCs;CLEC4C
+pDCs;DNASE1L3
+pDCs;CLEC4C
+pDCs;LRRC26
+pDCs;SCT
+pDCs;LAMP5
+NK cells;NCAM1
+NK cells;GNLY
+NK cells;GZMB
+NK cells;NKG7
+NK cells;KLRD1
+Progenitor;CEACAM8
+Progenitor;CD24
+Progenitor;BPI
+Progenitor;MKI67
