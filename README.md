@@ -11,7 +11,7 @@ We highly recommend checking out the official tutorial of scanpy (https://scanpy
 updated by the Theis group (https://www.sc-best-practices.org).
 
 As this approach includes slightly more steps and code, we also included a jupyter notebook as hmtl which only uses the code available
-in the protocol itself (STAR_Protocols_Code_PAPER)
+in the protocol itself (STAR_Protocols_Code_PAPER). The raw files are available on Zenodo including the html file with the code of the paper.
 
 NOTE: The following setup is only usable with a virtual conda environment, thus needing Anaconda/Minoconda installment beforehand.
 Please refer to the corresponding website for more information: https://www.anaconda.com
@@ -35,3 +35,5 @@ $ python star_main_function.py --sample_type:lung
 
 NOTE: Scanpy requires > python 3.6, however to our knowledge most higher python versions are working fine (we used 3.12 in our case). 
 
+Output:
+Adata file including all figures used for cell annotation as well as final plots presented in Scheiber et al 2024.
