@@ -10,8 +10,8 @@ where we showed the successful identification of low mRNA cells via scRNA-seq on
 We highly recommend checking out the official tutorial of scanpy (https://scanpy.readthedocs.io) as well as the single-cell best practices continously 
 updated by the Theis group (https://www.sc-best-practices.org).
 
-As this approach includes slightly more steps and code, we also included a jupyter notebook as hmtl which only uses the code available
-in the protocol itself (STAR_Protocols_Code_PAPER). The raw files are available on Zenodo including the html file with the code of the paper.
+As this approach includes slightly more steps and code, we also included the jupyter notebooks of each individual tissue as hmtl which only uses the code available
+in the protocol itself (STAR_Protocols_Code_PAPER). Both raw files are available on Zenodo including the html files with the code of the paper.
 
 NOTE: The following setup is only usable with a virtual conda environment, thus needing Anaconda/Minoconda installment beforehand.
 Please refer to the corresponding website for more information: https://www.anaconda.com
