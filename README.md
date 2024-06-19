@@ -26,8 +26,7 @@ $ conda env create -f environment.yml
 3. Activate the environment using:
 $ conda activate STAR_env
 
-4. Navigate to the raw_data directory and get the h5ad files from zenodo either manually or install wget and use:
-$ wget (ZENODO LINK)
+4. Navigate to the raw_data directory and get the h5ad files from zenodo: (10.5281/zenodo.12165000)
 
 5. Upon raw data is deposited, go to the parent folder where the main_function is deposited and call 
 the script - choose which sample you want to use the script for (lung, prostate or liver):
