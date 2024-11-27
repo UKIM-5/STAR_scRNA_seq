@@ -3,61 +3,61 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - arpack=3.8.0=nompi_ha3438d0_101
-  - bzip2=1.0.8=h80987f9_6
-  - ca-certificates=2024.2.2=hf0a4a13_0
-  - decorator=5.1.1=pyhd3eb1b0_0
-  - expat=2.6.2=h313beb8_0
-  - glpk=5.0=h6d7a090_0
-  - gmp=6.3.0=hebf3989_1
-  - icu=73.2=hc8870d7_0
-  - igraph=0.10.12=h45f1d01_0
-  - jupyter_client=8.6.0=py312hca03da5_0
-  - jupyter_core=5.5.0=py312hca03da5_0
-  - leidenalg=0.10.2=py312h20a0b95_0
-  - libblas=3.9.0=22_osxarm64_openblas
-  - libcblas=3.9.0=22_osxarm64_openblas
-  - libcxx=17.0.6=h5f092b4_0
-  - libexpat=2.6.2=hebf3989_0
-  - libffi=3.4.4=hca03da5_1
-  - libgfortran=5.0.0=13_2_0_hd922786_3
-  - libgfortran5=13.2.0=hf226fd6_3
-  - libiconv=1.17=h0d3ecfb_2
-  - liblapack=3.9.0=22_osxarm64_openblas
-  - libleidenalg=0.11.1=h1995070_0
-  - libopenblas=0.3.27=openmp_h6c19121_0
-  - libsodium=1.0.18=h1a28f6b_0
-  - libsqlite=3.45.3=h091b4b1_0
-  - libxml2=2.12.7=ha661575_0
-  - libzlib=1.2.13=hfb2fe0b_6
-  - llvm-openmp=18.1.6=hde57baf_0
-  - metis=5.1.0=h13dd4ca_1007
-  - mpfr=4.2.1=h9546428_0
-  - ncurses=6.5=hb89a1cb_0
-  - nest-asyncio=1.6.0=py312hca03da5_0
-  - openssl=3.3.0=hfb2fe0b_3
-  - pip=24.0=py312hca03da5_0
-  - prompt-toolkit=3.0.43=py312hca03da5_0
-  - prompt_toolkit=3.0.43=hd3eb1b0_0
-  - ptyprocess=0.7.0=pyhd3eb1b0_2
-  - pure_eval=0.2.2=pyhd3eb1b0_0
-  - python=3.12.3=h4a7b5fc_0_cpython
-  - python-dateutil=2.9.0post0=py312hca03da5_2
-  - python-igraph=0.11.5=py312h4a427be_0
-  - python_abi=3.12=4_cp312
-  - readline=8.2=h1a28f6b_0
-  - setuptools=69.5.1=py312hca03da5_0
-  - six=1.16.0=pyhd3eb1b0_1
-  - sqlite=3.45.3=h80987f9_0
-  - stack_data=0.2.0=pyhd3eb1b0_0
-  - suitesparse=5.10.1=h7cd81ec_1
-  - tbb=2021.8.0=h48ca7d4_0
-  - texttable=1.7.0=pyhd8ed1ab_0
-  - tk=8.6.14=h6ba3021_0
-  - wheel=0.43.0=py312hca03da5_0
-  - xz=5.4.6=h80987f9_1
-  - zeromq=4.3.5=h313beb8_0
-  - zlib=1.2.13=hfb2fe0b_6
+  - arpack=3.8.0
+  - bzip2=1.0.8
+  - ca-certificates=2024.2.2
+  - decorator=5.1.1
+  - expat=2.6.2
+  - glpk=5.0
+  - gmp=6.3.0
+  - icu=73.2
+  - igraph=0.10.12
+  - jupyter_client=8.6.0
+  - jupyter_core=5.5.0
+  - leidenalg=0.10.2
+  - libblas=3.9.0
+  - libcblas=3.9.0
+  - libcxx=17.0.6
+  - libexpat=2.6.2
+  - libffi=3.4.4
+  - libgfortran=5.0.0
+  - libgfortran5=13.2.0
+  - libiconv=1.17
+  - liblapack=3.9.0
+  - libleidenalg=0.11.1
+  - libopenblas=0.3.27
+  - libsodium=1.0.18
+  - libsqlite=3.45.3
+  - libxml2=2.12.7
+  - libzlib=1.2.13
+  - llvm-openmp=18.1.6
+  - metis=5.1.0
+  - mpfr=4.2.1
+  - ncurses=6.5
+  - nest-asyncio=1.6.0
+  - openssl=3.3.0
+  - pip=24.0
+  - prompt-toolkit=3.0.43
+  - prompt_toolkit=3.0.43
+  - ptyprocess=0.7.0
+  - pure_eval=0.2.2
+  - python=3.12.3
+  - python-dateutil=2.9.0post0
+  - python-igraph=0.11.5
+  - python_abi=3.12
+  - readline=8.2
+  - setuptools=69.5.1
+  - six=1.16.0
+  - sqlite=3.45.3
+  - stack_data=0.2.0
+  - suitesparse=5.10.1
+  - tbb=2021.8.0
+  - texttable=1.7.0
+  - tk=8.6.14
+  - wheel=0.43.0
+  - xz=5.4.6
+  - zeromq=4.3.5
+  - zlib=1.2.13
   - pip:
       - anndata==0.10.7
       - anyio==4.3.0
@@ -207,4 +207,3 @@ dependencies:
       - websocket-client==1.8.0
       - widgetsnbextension==4.0.10
       - zipp==3.18.2
-prefix: /Users/manueltrebo/miniconda3/envs/STAR_protocol_env
