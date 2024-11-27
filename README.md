@@ -30,7 +30,7 @@ $ conda activate STAR_env
 
 5. Upon raw data is deposited, go to the parent folder where the main_function is deposited and call 
 the script - choose which sample you want to use the script for (lung, prostate or liver):
-$ python star_main_function.py --sample_type=lung
+$ python STAR_main_function.py --sample_type=lung
 
 NOTE: Scanpy requires > python 3.6, however to our knowledge most higher python versions are working fine (we used 3.12 in our case). 
 
